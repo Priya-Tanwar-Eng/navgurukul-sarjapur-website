@@ -17,7 +17,7 @@ export default function Home() {
       </section>
       <AlumniPlacements />
       <CallToAction />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }

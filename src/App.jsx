@@ -23,7 +23,7 @@ const App = ()=>{
       <Route path="/enroll" element={<Enroll/>}/>
       <Route path="/contact" element={<ContactUs/>}/>
     </Routes>
-    <Footer/>
+    {/* <Footer/> */}
     </>
   )
 }
