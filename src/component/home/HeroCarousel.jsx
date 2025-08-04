@@ -4,9 +4,9 @@ import { Autoplay, Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/pagination';
 
-import img1 from '../../assets/1.png';
-import img2 from '../../assets/2.png';
-import img3 from '../../assets/3.png';
+import img1 from '../../assets/nav6.jpeg';
+import img2 from '../../assets/nav7.jpeg';
+import img3 from '../../assets/nav8.jpeg';
 
 const images = [img1, img2, img3];
 
